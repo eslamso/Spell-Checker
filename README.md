@@ -1,0 +1,1 @@
+spell checker using dataStructre like sorting and also can suggests some words depends on what you enter as input number also you can search in dictionary and add word using (addWord module) it returns the order of the word you want to add to your dictionary 
